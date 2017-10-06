@@ -1,0 +1,34 @@
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\bin\Debug\CC Lab.exe
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\bin\Debug\CC Lab.pdb
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\CC_Lab.Form1.resources
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\CC_Lab.Properties.Resources.resources
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\CC Lab.csproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\CC Lab.exe
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\CC Lab.pdb
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\bin\Debug\es-GT\CC Lab.resources.dll
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\es-GT\CC Lab.resources.dll
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\CC Lab.csprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\CC_Lab.Vistas.Muestras.FrmTipoAnalisis.resources
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\CC_Lab.FrmMain.resources
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\CC_Lab.FrmMuestra.resources
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\obj\Debug\CC_Lab.FrmMain.es-GT.resources
+C:\Users\Soporte\Documents\GitHub\CC-Lab\CC Lab\bin\Debug\CC Lab.exe.config
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\bin\Debug\CC Lab.exe.config
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\bin\Debug\CC Lab.exe
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\bin\Debug\CC Lab.pdb
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\bin\Debug\es-GT\CC Lab.resources.dll
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC Lab.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC_Lab.Form1.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC_Lab.Properties.Resources.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC_Lab.FrmMain.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC_Lab.FrmMuestra.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC_Lab.Vistas.Muestras.FrmTipoAnalisis.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC_Lab.FrmMain.es-GT.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC Lab.csproj.GenerateResource.Cache
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\es-GT\CC Lab.resources.dll
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC Lab.exe
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC Lab.pdb
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC_Lab.Paciente.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC_Lab.Analisis.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC_Lab.ExamenCompletoHeces.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\CC-Lab-master\CC Lab\obj\Debug\CC_Lab.ExamenCompletoOrina.resources
